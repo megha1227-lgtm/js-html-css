@@ -67,3 +67,11 @@ const course = {
 
 const  { coursename: js} = course
 console.log(js);
+// {
+//     "name": "megha",
+//     "age": 23,
+//     "email":"12@gmail.com"
+
+// }
+
+
