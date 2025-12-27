@@ -26,7 +26,7 @@ console.log(myArr.indexOf(3));
 
 
 //slice , splice 
-//slice doesn't change array but when it comes to splice its reflect the opposite in splice is array
+//slice doesn't change array but when it comes to splice its reflect the opposite 
 console.log("A", myArr);
 
 const myArr1= myArr.slice(1,3);
