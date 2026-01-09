@@ -40,7 +40,8 @@
 
 //logical operator
 // && and  both condition have to true 
-// || or 
+// || or  only one condition have to true
+// ! not
 const userLoogedIn = true
 const debitCart = true
 const loggedInFromGoogle = false
